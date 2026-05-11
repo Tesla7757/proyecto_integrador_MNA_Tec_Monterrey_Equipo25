@@ -1,0 +1,5 @@
+id,tz_identifier,label
+1,Europe/Madrid,Spain (UTC+1/+2)
+2,America/Mexico_City,Mexico Central (UTC-6/-5)
+3,America/Monterrey,Mexico North (UTC-6/-5)
+4,America/Cancun,Mexico East (UTC-5)
