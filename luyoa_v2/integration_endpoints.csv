@@ -1,0 +1,5 @@
+id,key,name
+1,transactions,Register transaction
+2,customers,Create or update customer
+3,rewards,Redeem reward
+4,webhooks,Event webhook

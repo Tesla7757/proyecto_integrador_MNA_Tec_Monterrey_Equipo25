@@ -1,0 +1,6 @@
+id,uid,name,description,enable,interface
+1,ee1d1fde,Shopify,E-commerce integration,1,REST
+2,a09a5cd0,Zapier,Workflow automation,1,Webhook
+3,1eb35fcf,Google Analytics,Web analytics,1,REST
+4,c02ad3e2,WooCommerce,WordPress store sync,1,REST
+5,480790ad,Mailchimp,Email marketing sync,1,REST
