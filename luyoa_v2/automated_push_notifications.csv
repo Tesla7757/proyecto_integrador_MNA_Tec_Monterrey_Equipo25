@@ -1,0 +1,2001 @@
+id,type,enable,body,value,business_id
+1,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,1
+2,NEW_REWARD,1,Congrats! You just earned a new reward.,0,1
+3,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,1
+4,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,1
+5,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,2
+6,NEW_REWARD,1,Congrats! You just earned a new reward.,0,2
+7,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,2
+8,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,2
+9,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,3
+10,NEW_REWARD,1,Congrats! You just earned a new reward.,0,3
+11,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,3
+12,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,3
+13,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,4
+14,NEW_REWARD,1,Congrats! You just earned a new reward.,0,4
+15,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,4
+16,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,4
+17,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,5
+18,NEW_REWARD,1,Congrats! You just earned a new reward.,0,5
+19,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,5
+20,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,5
+21,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,6
+22,NEW_REWARD,1,Congrats! You just earned a new reward.,0,6
+23,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,6
+24,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,6
+25,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,7
+26,NEW_REWARD,1,Congrats! You just earned a new reward.,0,7
+27,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,7
+28,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,7
+29,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,8
+30,NEW_REWARD,0,Congrats! You just earned a new reward.,0,8
+31,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,8
+32,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,8
+33,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,9
+34,NEW_REWARD,1,Congrats! You just earned a new reward.,0,9
+35,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,9
+36,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,9
+37,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,10
+38,NEW_REWARD,0,Congrats! You just earned a new reward.,0,10
+39,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,10
+40,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,10
+41,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,11
+42,NEW_REWARD,1,Congrats! You just earned a new reward.,0,11
+43,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,11
+44,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,11
+45,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,12
+46,NEW_REWARD,0,Congrats! You just earned a new reward.,0,12
+47,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,12
+48,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,12
+49,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,13
+50,NEW_REWARD,0,Congrats! You just earned a new reward.,0,13
+51,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,13
+52,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,13
+53,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,14
+54,NEW_REWARD,1,Congrats! You just earned a new reward.,0,14
+55,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,14
+56,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,14
+57,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,15
+58,NEW_REWARD,0,Congrats! You just earned a new reward.,0,15
+59,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,15
+60,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,15
+61,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,16
+62,NEW_REWARD,1,Congrats! You just earned a new reward.,0,16
+63,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,16
+64,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,16
+65,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,17
+66,NEW_REWARD,1,Congrats! You just earned a new reward.,0,17
+67,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,17
+68,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,17
+69,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,18
+70,NEW_REWARD,1,Congrats! You just earned a new reward.,0,18
+71,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,18
+72,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,18
+73,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,19
+74,NEW_REWARD,1,Congrats! You just earned a new reward.,0,19
+75,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,19
+76,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,19
+77,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,20
+78,NEW_REWARD,1,Congrats! You just earned a new reward.,0,20
+79,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,20
+80,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,20
+81,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,21
+82,NEW_REWARD,1,Congrats! You just earned a new reward.,0,21
+83,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,21
+84,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,21
+85,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,22
+86,NEW_REWARD,1,Congrats! You just earned a new reward.,0,22
+87,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,22
+88,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,22
+89,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,23
+90,NEW_REWARD,1,Congrats! You just earned a new reward.,0,23
+91,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,23
+92,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,23
+93,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,24
+94,NEW_REWARD,1,Congrats! You just earned a new reward.,0,24
+95,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,24
+96,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,24
+97,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,25
+98,NEW_REWARD,1,Congrats! You just earned a new reward.,0,25
+99,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,25
+100,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,25
+101,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,26
+102,NEW_REWARD,0,Congrats! You just earned a new reward.,0,26
+103,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,26
+104,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,26
+105,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,27
+106,NEW_REWARD,1,Congrats! You just earned a new reward.,0,27
+107,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,27
+108,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,27
+109,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,28
+110,NEW_REWARD,1,Congrats! You just earned a new reward.,0,28
+111,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,28
+112,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,28
+113,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,29
+114,NEW_REWARD,1,Congrats! You just earned a new reward.,0,29
+115,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,29
+116,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,29
+117,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,30
+118,NEW_REWARD,0,Congrats! You just earned a new reward.,0,30
+119,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,30
+120,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,30
+121,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,31
+122,NEW_REWARD,1,Congrats! You just earned a new reward.,0,31
+123,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,31
+124,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,31
+125,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,32
+126,NEW_REWARD,1,Congrats! You just earned a new reward.,0,32
+127,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,32
+128,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,32
+129,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,33
+130,NEW_REWARD,1,Congrats! You just earned a new reward.,0,33
+131,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,33
+132,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,33
+133,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,34
+134,NEW_REWARD,1,Congrats! You just earned a new reward.,0,34
+135,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,34
+136,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,34
+137,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,35
+138,NEW_REWARD,1,Congrats! You just earned a new reward.,0,35
+139,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,35
+140,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,35
+141,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,36
+142,NEW_REWARD,0,Congrats! You just earned a new reward.,0,36
+143,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,36
+144,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,36
+145,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,37
+146,NEW_REWARD,1,Congrats! You just earned a new reward.,0,37
+147,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,37
+148,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,37
+149,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,38
+150,NEW_REWARD,1,Congrats! You just earned a new reward.,0,38
+151,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,38
+152,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,38
+153,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,39
+154,NEW_REWARD,1,Congrats! You just earned a new reward.,0,39
+155,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,39
+156,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,39
+157,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,40
+158,NEW_REWARD,0,Congrats! You just earned a new reward.,0,40
+159,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,40
+160,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,40
+161,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,41
+162,NEW_REWARD,1,Congrats! You just earned a new reward.,0,41
+163,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,41
+164,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,41
+165,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,42
+166,NEW_REWARD,1,Congrats! You just earned a new reward.,0,42
+167,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,42
+168,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,42
+169,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,43
+170,NEW_REWARD,1,Congrats! You just earned a new reward.,0,43
+171,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,43
+172,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,43
+173,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,44
+174,NEW_REWARD,0,Congrats! You just earned a new reward.,0,44
+175,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,44
+176,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,44
+177,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,45
+178,NEW_REWARD,1,Congrats! You just earned a new reward.,0,45
+179,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,45
+180,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,45
+181,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,46
+182,NEW_REWARD,1,Congrats! You just earned a new reward.,0,46
+183,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,46
+184,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,46
+185,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,47
+186,NEW_REWARD,1,Congrats! You just earned a new reward.,0,47
+187,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,47
+188,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,47
+189,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,48
+190,NEW_REWARD,1,Congrats! You just earned a new reward.,0,48
+191,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,48
+192,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,48
+193,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,49
+194,NEW_REWARD,0,Congrats! You just earned a new reward.,0,49
+195,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,49
+196,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,49
+197,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,50
+198,NEW_REWARD,1,Congrats! You just earned a new reward.,0,50
+199,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,50
+200,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,50
+201,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,51
+202,NEW_REWARD,1,Congrats! You just earned a new reward.,0,51
+203,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,51
+204,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,51
+205,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,52
+206,NEW_REWARD,1,Congrats! You just earned a new reward.,0,52
+207,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,52
+208,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,52
+209,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,53
+210,NEW_REWARD,0,Congrats! You just earned a new reward.,0,53
+211,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,53
+212,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,53
+213,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,54
+214,NEW_REWARD,1,Congrats! You just earned a new reward.,0,54
+215,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,54
+216,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,54
+217,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,55
+218,NEW_REWARD,1,Congrats! You just earned a new reward.,0,55
+219,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,55
+220,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,55
+221,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,56
+222,NEW_REWARD,1,Congrats! You just earned a new reward.,0,56
+223,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,56
+224,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,56
+225,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,57
+226,NEW_REWARD,1,Congrats! You just earned a new reward.,0,57
+227,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,57
+228,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,57
+229,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,58
+230,NEW_REWARD,0,Congrats! You just earned a new reward.,0,58
+231,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,58
+232,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,58
+233,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,59
+234,NEW_REWARD,1,Congrats! You just earned a new reward.,0,59
+235,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,59
+236,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,59
+237,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,60
+238,NEW_REWARD,1,Congrats! You just earned a new reward.,0,60
+239,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,60
+240,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,60
+241,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,61
+242,NEW_REWARD,0,Congrats! You just earned a new reward.,0,61
+243,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,61
+244,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,61
+245,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,62
+246,NEW_REWARD,1,Congrats! You just earned a new reward.,0,62
+247,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,62
+248,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,62
+249,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,63
+250,NEW_REWARD,1,Congrats! You just earned a new reward.,0,63
+251,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,63
+252,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,63
+253,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,64
+254,NEW_REWARD,1,Congrats! You just earned a new reward.,0,64
+255,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,64
+256,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,64
+257,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,65
+258,NEW_REWARD,1,Congrats! You just earned a new reward.,0,65
+259,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,65
+260,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,65
+261,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,66
+262,NEW_REWARD,1,Congrats! You just earned a new reward.,0,66
+263,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,66
+264,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,66
+265,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,67
+266,NEW_REWARD,1,Congrats! You just earned a new reward.,0,67
+267,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,67
+268,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,67
+269,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,68
+270,NEW_REWARD,1,Congrats! You just earned a new reward.,0,68
+271,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,68
+272,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,68
+273,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,69
+274,NEW_REWARD,0,Congrats! You just earned a new reward.,0,69
+275,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,69
+276,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,69
+277,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,70
+278,NEW_REWARD,1,Congrats! You just earned a new reward.,0,70
+279,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,70
+280,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,70
+281,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,71
+282,NEW_REWARD,1,Congrats! You just earned a new reward.,0,71
+283,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,71
+284,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,71
+285,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,72
+286,NEW_REWARD,1,Congrats! You just earned a new reward.,0,72
+287,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,72
+288,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,72
+289,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,73
+290,NEW_REWARD,1,Congrats! You just earned a new reward.,0,73
+291,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,73
+292,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,73
+293,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,74
+294,NEW_REWARD,1,Congrats! You just earned a new reward.,0,74
+295,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,74
+296,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,74
+297,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,75
+298,NEW_REWARD,1,Congrats! You just earned a new reward.,0,75
+299,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,75
+300,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,75
+301,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,76
+302,NEW_REWARD,1,Congrats! You just earned a new reward.,0,76
+303,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,76
+304,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,76
+305,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,77
+306,NEW_REWARD,1,Congrats! You just earned a new reward.,0,77
+307,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,77
+308,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,77
+309,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,78
+310,NEW_REWARD,0,Congrats! You just earned a new reward.,0,78
+311,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,78
+312,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,78
+313,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,79
+314,NEW_REWARD,1,Congrats! You just earned a new reward.,0,79
+315,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,79
+316,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,79
+317,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,80
+318,NEW_REWARD,1,Congrats! You just earned a new reward.,0,80
+319,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,80
+320,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,80
+321,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,81
+322,NEW_REWARD,1,Congrats! You just earned a new reward.,0,81
+323,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,81
+324,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,81
+325,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,82
+326,NEW_REWARD,1,Congrats! You just earned a new reward.,0,82
+327,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,82
+328,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,82
+329,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,83
+330,NEW_REWARD,1,Congrats! You just earned a new reward.,0,83
+331,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,83
+332,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,83
+333,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,84
+334,NEW_REWARD,1,Congrats! You just earned a new reward.,0,84
+335,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,84
+336,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,84
+337,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,85
+338,NEW_REWARD,1,Congrats! You just earned a new reward.,0,85
+339,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,85
+340,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,85
+341,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,86
+342,NEW_REWARD,1,Congrats! You just earned a new reward.,0,86
+343,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,86
+344,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,86
+345,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,87
+346,NEW_REWARD,1,Congrats! You just earned a new reward.,0,87
+347,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,87
+348,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,87
+349,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,88
+350,NEW_REWARD,0,Congrats! You just earned a new reward.,0,88
+351,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,88
+352,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,88
+353,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,89
+354,NEW_REWARD,1,Congrats! You just earned a new reward.,0,89
+355,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,89
+356,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,89
+357,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,90
+358,NEW_REWARD,1,Congrats! You just earned a new reward.,0,90
+359,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,90
+360,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,90
+361,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,91
+362,NEW_REWARD,0,Congrats! You just earned a new reward.,0,91
+363,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,91
+364,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,91
+365,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,92
+366,NEW_REWARD,1,Congrats! You just earned a new reward.,0,92
+367,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,92
+368,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,92
+369,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,93
+370,NEW_REWARD,1,Congrats! You just earned a new reward.,0,93
+371,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,93
+372,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,93
+373,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,94
+374,NEW_REWARD,1,Congrats! You just earned a new reward.,0,94
+375,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,94
+376,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,94
+377,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,95
+378,NEW_REWARD,0,Congrats! You just earned a new reward.,0,95
+379,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,95
+380,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,95
+381,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,96
+382,NEW_REWARD,1,Congrats! You just earned a new reward.,0,96
+383,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,96
+384,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,96
+385,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,97
+386,NEW_REWARD,1,Congrats! You just earned a new reward.,0,97
+387,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,97
+388,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,97
+389,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,98
+390,NEW_REWARD,1,Congrats! You just earned a new reward.,0,98
+391,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,98
+392,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,98
+393,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,99
+394,NEW_REWARD,1,Congrats! You just earned a new reward.,0,99
+395,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,99
+396,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,99
+397,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,100
+398,NEW_REWARD,1,Congrats! You just earned a new reward.,0,100
+399,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,100
+400,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,100
+401,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,101
+402,NEW_REWARD,1,Congrats! You just earned a new reward.,0,101
+403,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,101
+404,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,101
+405,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,102
+406,NEW_REWARD,1,Congrats! You just earned a new reward.,0,102
+407,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,102
+408,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,102
+409,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,103
+410,NEW_REWARD,1,Congrats! You just earned a new reward.,0,103
+411,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,103
+412,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,103
+413,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,104
+414,NEW_REWARD,1,Congrats! You just earned a new reward.,0,104
+415,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,104
+416,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,104
+417,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,105
+418,NEW_REWARD,1,Congrats! You just earned a new reward.,0,105
+419,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,105
+420,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,105
+421,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,106
+422,NEW_REWARD,1,Congrats! You just earned a new reward.,0,106
+423,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,106
+424,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,106
+425,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,107
+426,NEW_REWARD,1,Congrats! You just earned a new reward.,0,107
+427,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,107
+428,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,107
+429,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,108
+430,NEW_REWARD,0,Congrats! You just earned a new reward.,0,108
+431,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,108
+432,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,108
+433,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,109
+434,NEW_REWARD,1,Congrats! You just earned a new reward.,0,109
+435,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,109
+436,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,109
+437,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,110
+438,NEW_REWARD,1,Congrats! You just earned a new reward.,0,110
+439,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,110
+440,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,110
+441,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,111
+442,NEW_REWARD,1,Congrats! You just earned a new reward.,0,111
+443,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,111
+444,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,111
+445,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,112
+446,NEW_REWARD,1,Congrats! You just earned a new reward.,0,112
+447,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,112
+448,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,112
+449,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,113
+450,NEW_REWARD,1,Congrats! You just earned a new reward.,0,113
+451,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,113
+452,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,113
+453,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,114
+454,NEW_REWARD,1,Congrats! You just earned a new reward.,0,114
+455,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,114
+456,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,114
+457,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,115
+458,NEW_REWARD,1,Congrats! You just earned a new reward.,0,115
+459,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,115
+460,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,115
+461,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,116
+462,NEW_REWARD,1,Congrats! You just earned a new reward.,0,116
+463,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,116
+464,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,116
+465,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,117
+466,NEW_REWARD,1,Congrats! You just earned a new reward.,0,117
+467,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,117
+468,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,117
+469,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,118
+470,NEW_REWARD,1,Congrats! You just earned a new reward.,0,118
+471,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,118
+472,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,118
+473,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,119
+474,NEW_REWARD,1,Congrats! You just earned a new reward.,0,119
+475,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,119
+476,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,119
+477,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,120
+478,NEW_REWARD,1,Congrats! You just earned a new reward.,0,120
+479,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,120
+480,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,120
+481,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,121
+482,NEW_REWARD,1,Congrats! You just earned a new reward.,0,121
+483,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,121
+484,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,121
+485,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,122
+486,NEW_REWARD,1,Congrats! You just earned a new reward.,0,122
+487,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,122
+488,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,122
+489,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,123
+490,NEW_REWARD,1,Congrats! You just earned a new reward.,0,123
+491,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,123
+492,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,123
+493,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,124
+494,NEW_REWARD,1,Congrats! You just earned a new reward.,0,124
+495,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,124
+496,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,124
+497,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,125
+498,NEW_REWARD,1,Congrats! You just earned a new reward.,0,125
+499,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,125
+500,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,125
+501,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,126
+502,NEW_REWARD,1,Congrats! You just earned a new reward.,0,126
+503,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,126
+504,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,126
+505,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,127
+506,NEW_REWARD,1,Congrats! You just earned a new reward.,0,127
+507,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,127
+508,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,127
+509,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,128
+510,NEW_REWARD,1,Congrats! You just earned a new reward.,0,128
+511,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,128
+512,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,128
+513,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,129
+514,NEW_REWARD,1,Congrats! You just earned a new reward.,0,129
+515,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,129
+516,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,129
+517,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,130
+518,NEW_REWARD,1,Congrats! You just earned a new reward.,0,130
+519,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,130
+520,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,130
+521,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,131
+522,NEW_REWARD,0,Congrats! You just earned a new reward.,0,131
+523,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,131
+524,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,131
+525,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,132
+526,NEW_REWARD,0,Congrats! You just earned a new reward.,0,132
+527,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,132
+528,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,132
+529,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,133
+530,NEW_REWARD,1,Congrats! You just earned a new reward.,0,133
+531,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,133
+532,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,133
+533,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,134
+534,NEW_REWARD,1,Congrats! You just earned a new reward.,0,134
+535,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,134
+536,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,134
+537,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,135
+538,NEW_REWARD,1,Congrats! You just earned a new reward.,0,135
+539,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,135
+540,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,135
+541,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,136
+542,NEW_REWARD,1,Congrats! You just earned a new reward.,0,136
+543,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,136
+544,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,136
+545,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,137
+546,NEW_REWARD,1,Congrats! You just earned a new reward.,0,137
+547,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,137
+548,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,137
+549,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,138
+550,NEW_REWARD,1,Congrats! You just earned a new reward.,0,138
+551,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,138
+552,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,138
+553,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,139
+554,NEW_REWARD,1,Congrats! You just earned a new reward.,0,139
+555,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,139
+556,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,139
+557,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,140
+558,NEW_REWARD,1,Congrats! You just earned a new reward.,0,140
+559,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,140
+560,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,140
+561,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,141
+562,NEW_REWARD,1,Congrats! You just earned a new reward.,0,141
+563,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,141
+564,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,141
+565,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,142
+566,NEW_REWARD,1,Congrats! You just earned a new reward.,0,142
+567,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,142
+568,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,142
+569,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,143
+570,NEW_REWARD,1,Congrats! You just earned a new reward.,0,143
+571,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,143
+572,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,143
+573,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,144
+574,NEW_REWARD,1,Congrats! You just earned a new reward.,0,144
+575,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,144
+576,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,144
+577,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,145
+578,NEW_REWARD,1,Congrats! You just earned a new reward.,0,145
+579,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,145
+580,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,145
+581,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,146
+582,NEW_REWARD,1,Congrats! You just earned a new reward.,0,146
+583,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,146
+584,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,146
+585,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,147
+586,NEW_REWARD,1,Congrats! You just earned a new reward.,0,147
+587,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,147
+588,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,147
+589,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,148
+590,NEW_REWARD,1,Congrats! You just earned a new reward.,0,148
+591,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,148
+592,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,148
+593,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,149
+594,NEW_REWARD,1,Congrats! You just earned a new reward.,0,149
+595,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,149
+596,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,149
+597,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,150
+598,NEW_REWARD,1,Congrats! You just earned a new reward.,0,150
+599,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,150
+600,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,150
+601,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,151
+602,NEW_REWARD,1,Congrats! You just earned a new reward.,0,151
+603,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,151
+604,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,151
+605,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,152
+606,NEW_REWARD,1,Congrats! You just earned a new reward.,0,152
+607,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,152
+608,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,152
+609,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,153
+610,NEW_REWARD,1,Congrats! You just earned a new reward.,0,153
+611,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,153
+612,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,153
+613,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,154
+614,NEW_REWARD,1,Congrats! You just earned a new reward.,0,154
+615,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,154
+616,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,154
+617,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,155
+618,NEW_REWARD,1,Congrats! You just earned a new reward.,0,155
+619,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,155
+620,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,155
+621,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,156
+622,NEW_REWARD,0,Congrats! You just earned a new reward.,0,156
+623,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,156
+624,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,156
+625,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,157
+626,NEW_REWARD,1,Congrats! You just earned a new reward.,0,157
+627,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,157
+628,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,157
+629,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,158
+630,NEW_REWARD,1,Congrats! You just earned a new reward.,0,158
+631,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,158
+632,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,158
+633,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,159
+634,NEW_REWARD,1,Congrats! You just earned a new reward.,0,159
+635,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,159
+636,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,159
+637,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,160
+638,NEW_REWARD,1,Congrats! You just earned a new reward.,0,160
+639,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,160
+640,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,160
+641,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,161
+642,NEW_REWARD,1,Congrats! You just earned a new reward.,0,161
+643,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,161
+644,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,161
+645,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,162
+646,NEW_REWARD,1,Congrats! You just earned a new reward.,0,162
+647,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,162
+648,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,162
+649,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,163
+650,NEW_REWARD,1,Congrats! You just earned a new reward.,0,163
+651,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,163
+652,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,163
+653,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,164
+654,NEW_REWARD,0,Congrats! You just earned a new reward.,0,164
+655,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,164
+656,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,164
+657,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,165
+658,NEW_REWARD,1,Congrats! You just earned a new reward.,0,165
+659,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,165
+660,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,165
+661,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,166
+662,NEW_REWARD,0,Congrats! You just earned a new reward.,0,166
+663,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,166
+664,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,166
+665,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,167
+666,NEW_REWARD,1,Congrats! You just earned a new reward.,0,167
+667,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,167
+668,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,167
+669,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,168
+670,NEW_REWARD,1,Congrats! You just earned a new reward.,0,168
+671,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,168
+672,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,168
+673,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,169
+674,NEW_REWARD,1,Congrats! You just earned a new reward.,0,169
+675,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,169
+676,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,169
+677,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,170
+678,NEW_REWARD,1,Congrats! You just earned a new reward.,0,170
+679,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,170
+680,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,170
+681,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,171
+682,NEW_REWARD,1,Congrats! You just earned a new reward.,0,171
+683,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,171
+684,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,171
+685,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,172
+686,NEW_REWARD,1,Congrats! You just earned a new reward.,0,172
+687,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,172
+688,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,172
+689,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,173
+690,NEW_REWARD,1,Congrats! You just earned a new reward.,0,173
+691,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,173
+692,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,173
+693,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,174
+694,NEW_REWARD,1,Congrats! You just earned a new reward.,0,174
+695,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,174
+696,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,174
+697,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,175
+698,NEW_REWARD,1,Congrats! You just earned a new reward.,0,175
+699,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,175
+700,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,175
+701,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,176
+702,NEW_REWARD,1,Congrats! You just earned a new reward.,0,176
+703,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,176
+704,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,176
+705,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,177
+706,NEW_REWARD,1,Congrats! You just earned a new reward.,0,177
+707,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,177
+708,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,177
+709,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,178
+710,NEW_REWARD,1,Congrats! You just earned a new reward.,0,178
+711,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,178
+712,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,178
+713,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,179
+714,NEW_REWARD,1,Congrats! You just earned a new reward.,0,179
+715,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,179
+716,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,179
+717,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,180
+718,NEW_REWARD,1,Congrats! You just earned a new reward.,0,180
+719,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,180
+720,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,180
+721,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,181
+722,NEW_REWARD,1,Congrats! You just earned a new reward.,0,181
+723,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,181
+724,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,181
+725,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,182
+726,NEW_REWARD,0,Congrats! You just earned a new reward.,0,182
+727,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,182
+728,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,182
+729,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,183
+730,NEW_REWARD,1,Congrats! You just earned a new reward.,0,183
+731,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,183
+732,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,183
+733,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,184
+734,NEW_REWARD,1,Congrats! You just earned a new reward.,0,184
+735,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,184
+736,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,184
+737,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,185
+738,NEW_REWARD,1,Congrats! You just earned a new reward.,0,185
+739,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,185
+740,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,185
+741,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,186
+742,NEW_REWARD,1,Congrats! You just earned a new reward.,0,186
+743,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,186
+744,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,186
+745,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,187
+746,NEW_REWARD,1,Congrats! You just earned a new reward.,0,187
+747,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,187
+748,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,187
+749,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,188
+750,NEW_REWARD,1,Congrats! You just earned a new reward.,0,188
+751,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,188
+752,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,188
+753,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,189
+754,NEW_REWARD,0,Congrats! You just earned a new reward.,0,189
+755,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,189
+756,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,189
+757,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,190
+758,NEW_REWARD,0,Congrats! You just earned a new reward.,0,190
+759,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,190
+760,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,190
+761,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,191
+762,NEW_REWARD,1,Congrats! You just earned a new reward.,0,191
+763,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,191
+764,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,191
+765,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,192
+766,NEW_REWARD,1,Congrats! You just earned a new reward.,0,192
+767,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,192
+768,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,192
+769,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,193
+770,NEW_REWARD,1,Congrats! You just earned a new reward.,0,193
+771,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,193
+772,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,193
+773,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,194
+774,NEW_REWARD,0,Congrats! You just earned a new reward.,0,194
+775,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,194
+776,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,194
+777,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,195
+778,NEW_REWARD,0,Congrats! You just earned a new reward.,0,195
+779,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,195
+780,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,195
+781,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,196
+782,NEW_REWARD,1,Congrats! You just earned a new reward.,0,196
+783,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,196
+784,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,196
+785,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,197
+786,NEW_REWARD,1,Congrats! You just earned a new reward.,0,197
+787,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,197
+788,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,197
+789,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,198
+790,NEW_REWARD,1,Congrats! You just earned a new reward.,0,198
+791,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,198
+792,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,198
+793,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,199
+794,NEW_REWARD,1,Congrats! You just earned a new reward.,0,199
+795,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,199
+796,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,199
+797,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,200
+798,NEW_REWARD,1,Congrats! You just earned a new reward.,0,200
+799,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,200
+800,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,200
+801,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,201
+802,NEW_REWARD,0,Congrats! You just earned a new reward.,0,201
+803,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,201
+804,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,201
+805,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,202
+806,NEW_REWARD,1,Congrats! You just earned a new reward.,0,202
+807,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,202
+808,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,202
+809,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,203
+810,NEW_REWARD,1,Congrats! You just earned a new reward.,0,203
+811,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,203
+812,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,203
+813,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,204
+814,NEW_REWARD,1,Congrats! You just earned a new reward.,0,204
+815,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,204
+816,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,204
+817,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,205
+818,NEW_REWARD,1,Congrats! You just earned a new reward.,0,205
+819,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,205
+820,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,205
+821,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,206
+822,NEW_REWARD,1,Congrats! You just earned a new reward.,0,206
+823,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,206
+824,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,206
+825,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,207
+826,NEW_REWARD,0,Congrats! You just earned a new reward.,0,207
+827,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,207
+828,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,207
+829,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,208
+830,NEW_REWARD,0,Congrats! You just earned a new reward.,0,208
+831,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,208
+832,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,208
+833,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,209
+834,NEW_REWARD,1,Congrats! You just earned a new reward.,0,209
+835,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,209
+836,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,209
+837,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,210
+838,NEW_REWARD,1,Congrats! You just earned a new reward.,0,210
+839,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,210
+840,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,210
+841,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,211
+842,NEW_REWARD,1,Congrats! You just earned a new reward.,0,211
+843,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,211
+844,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,211
+845,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,212
+846,NEW_REWARD,1,Congrats! You just earned a new reward.,0,212
+847,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,212
+848,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,212
+849,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,213
+850,NEW_REWARD,0,Congrats! You just earned a new reward.,0,213
+851,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,213
+852,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,213
+853,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,214
+854,NEW_REWARD,1,Congrats! You just earned a new reward.,0,214
+855,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,214
+856,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,214
+857,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,215
+858,NEW_REWARD,0,Congrats! You just earned a new reward.,0,215
+859,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,215
+860,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,215
+861,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,216
+862,NEW_REWARD,1,Congrats! You just earned a new reward.,0,216
+863,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,216
+864,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,216
+865,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,217
+866,NEW_REWARD,1,Congrats! You just earned a new reward.,0,217
+867,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,217
+868,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,217
+869,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,218
+870,NEW_REWARD,1,Congrats! You just earned a new reward.,0,218
+871,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,218
+872,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,218
+873,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,219
+874,NEW_REWARD,1,Congrats! You just earned a new reward.,0,219
+875,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,219
+876,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,219
+877,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,220
+878,NEW_REWARD,1,Congrats! You just earned a new reward.,0,220
+879,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,220
+880,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,220
+881,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,221
+882,NEW_REWARD,1,Congrats! You just earned a new reward.,0,221
+883,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,221
+884,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,221
+885,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,222
+886,NEW_REWARD,1,Congrats! You just earned a new reward.,0,222
+887,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,222
+888,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,222
+889,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,223
+890,NEW_REWARD,1,Congrats! You just earned a new reward.,0,223
+891,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,223
+892,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,223
+893,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,224
+894,NEW_REWARD,1,Congrats! You just earned a new reward.,0,224
+895,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,224
+896,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,224
+897,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,225
+898,NEW_REWARD,1,Congrats! You just earned a new reward.,0,225
+899,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,225
+900,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,225
+901,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,226
+902,NEW_REWARD,0,Congrats! You just earned a new reward.,0,226
+903,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,226
+904,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,226
+905,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,227
+906,NEW_REWARD,1,Congrats! You just earned a new reward.,0,227
+907,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,227
+908,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,227
+909,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,228
+910,NEW_REWARD,1,Congrats! You just earned a new reward.,0,228
+911,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,228
+912,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,228
+913,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,229
+914,NEW_REWARD,1,Congrats! You just earned a new reward.,0,229
+915,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,229
+916,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,229
+917,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,230
+918,NEW_REWARD,1,Congrats! You just earned a new reward.,0,230
+919,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,230
+920,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,230
+921,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,231
+922,NEW_REWARD,0,Congrats! You just earned a new reward.,0,231
+923,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,231
+924,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,231
+925,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,232
+926,NEW_REWARD,1,Congrats! You just earned a new reward.,0,232
+927,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,232
+928,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,232
+929,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,233
+930,NEW_REWARD,1,Congrats! You just earned a new reward.,0,233
+931,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,233
+932,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,233
+933,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,234
+934,NEW_REWARD,1,Congrats! You just earned a new reward.,0,234
+935,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,234
+936,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,234
+937,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,235
+938,NEW_REWARD,1,Congrats! You just earned a new reward.,0,235
+939,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,235
+940,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,235
+941,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,236
+942,NEW_REWARD,1,Congrats! You just earned a new reward.,0,236
+943,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,236
+944,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,236
+945,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,237
+946,NEW_REWARD,1,Congrats! You just earned a new reward.,0,237
+947,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,237
+948,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,237
+949,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,238
+950,NEW_REWARD,1,Congrats! You just earned a new reward.,0,238
+951,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,238
+952,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,238
+953,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,239
+954,NEW_REWARD,1,Congrats! You just earned a new reward.,0,239
+955,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,239
+956,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,239
+957,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,240
+958,NEW_REWARD,1,Congrats! You just earned a new reward.,0,240
+959,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,240
+960,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,240
+961,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,241
+962,NEW_REWARD,1,Congrats! You just earned a new reward.,0,241
+963,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,241
+964,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,241
+965,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,242
+966,NEW_REWARD,1,Congrats! You just earned a new reward.,0,242
+967,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,242
+968,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,242
+969,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,243
+970,NEW_REWARD,1,Congrats! You just earned a new reward.,0,243
+971,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,243
+972,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,243
+973,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,244
+974,NEW_REWARD,1,Congrats! You just earned a new reward.,0,244
+975,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,244
+976,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,244
+977,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,245
+978,NEW_REWARD,1,Congrats! You just earned a new reward.,0,245
+979,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,245
+980,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,245
+981,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,246
+982,NEW_REWARD,1,Congrats! You just earned a new reward.,0,246
+983,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,246
+984,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,246
+985,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,247
+986,NEW_REWARD,1,Congrats! You just earned a new reward.,0,247
+987,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,247
+988,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,247
+989,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,248
+990,NEW_REWARD,1,Congrats! You just earned a new reward.,0,248
+991,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,248
+992,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,248
+993,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,249
+994,NEW_REWARD,1,Congrats! You just earned a new reward.,0,249
+995,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,249
+996,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,249
+997,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,250
+998,NEW_REWARD,1,Congrats! You just earned a new reward.,0,250
+999,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,250
+1000,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,250
+1001,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,251
+1002,NEW_REWARD,1,Congrats! You just earned a new reward.,0,251
+1003,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,251
+1004,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,251
+1005,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,252
+1006,NEW_REWARD,1,Congrats! You just earned a new reward.,0,252
+1007,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,252
+1008,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,252
+1009,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,253
+1010,NEW_REWARD,1,Congrats! You just earned a new reward.,0,253
+1011,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,253
+1012,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,253
+1013,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,254
+1014,NEW_REWARD,1,Congrats! You just earned a new reward.,0,254
+1015,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,254
+1016,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,254
+1017,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,255
+1018,NEW_REWARD,1,Congrats! You just earned a new reward.,0,255
+1019,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,255
+1020,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,255
+1021,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,256
+1022,NEW_REWARD,1,Congrats! You just earned a new reward.,0,256
+1023,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,256
+1024,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,256
+1025,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,257
+1026,NEW_REWARD,1,Congrats! You just earned a new reward.,0,257
+1027,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,257
+1028,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,257
+1029,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,258
+1030,NEW_REWARD,1,Congrats! You just earned a new reward.,0,258
+1031,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,258
+1032,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,258
+1033,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,259
+1034,NEW_REWARD,1,Congrats! You just earned a new reward.,0,259
+1035,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,259
+1036,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,259
+1037,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,260
+1038,NEW_REWARD,1,Congrats! You just earned a new reward.,0,260
+1039,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,260
+1040,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,260
+1041,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,261
+1042,NEW_REWARD,1,Congrats! You just earned a new reward.,0,261
+1043,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,261
+1044,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,261
+1045,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,262
+1046,NEW_REWARD,1,Congrats! You just earned a new reward.,0,262
+1047,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,262
+1048,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,262
+1049,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,263
+1050,NEW_REWARD,1,Congrats! You just earned a new reward.,0,263
+1051,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,263
+1052,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,263
+1053,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,264
+1054,NEW_REWARD,1,Congrats! You just earned a new reward.,0,264
+1055,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,264
+1056,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,264
+1057,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,265
+1058,NEW_REWARD,1,Congrats! You just earned a new reward.,0,265
+1059,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,265
+1060,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,265
+1061,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,266
+1062,NEW_REWARD,1,Congrats! You just earned a new reward.,0,266
+1063,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,266
+1064,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,266
+1065,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,267
+1066,NEW_REWARD,1,Congrats! You just earned a new reward.,0,267
+1067,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,267
+1068,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,267
+1069,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,268
+1070,NEW_REWARD,1,Congrats! You just earned a new reward.,0,268
+1071,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,268
+1072,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,268
+1073,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,269
+1074,NEW_REWARD,1,Congrats! You just earned a new reward.,0,269
+1075,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,269
+1076,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,269
+1077,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,270
+1078,NEW_REWARD,0,Congrats! You just earned a new reward.,0,270
+1079,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,270
+1080,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,270
+1081,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,271
+1082,NEW_REWARD,1,Congrats! You just earned a new reward.,0,271
+1083,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,271
+1084,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,271
+1085,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,272
+1086,NEW_REWARD,1,Congrats! You just earned a new reward.,0,272
+1087,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,272
+1088,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,272
+1089,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,273
+1090,NEW_REWARD,1,Congrats! You just earned a new reward.,0,273
+1091,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,273
+1092,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,273
+1093,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,274
+1094,NEW_REWARD,0,Congrats! You just earned a new reward.,0,274
+1095,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,274
+1096,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,274
+1097,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,275
+1098,NEW_REWARD,1,Congrats! You just earned a new reward.,0,275
+1099,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,275
+1100,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,275
+1101,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,276
+1102,NEW_REWARD,0,Congrats! You just earned a new reward.,0,276
+1103,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,276
+1104,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,276
+1105,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,277
+1106,NEW_REWARD,1,Congrats! You just earned a new reward.,0,277
+1107,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,277
+1108,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,277
+1109,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,278
+1110,NEW_REWARD,0,Congrats! You just earned a new reward.,0,278
+1111,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,278
+1112,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,278
+1113,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,279
+1114,NEW_REWARD,1,Congrats! You just earned a new reward.,0,279
+1115,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,279
+1116,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,279
+1117,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,280
+1118,NEW_REWARD,1,Congrats! You just earned a new reward.,0,280
+1119,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,280
+1120,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,280
+1121,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,281
+1122,NEW_REWARD,1,Congrats! You just earned a new reward.,0,281
+1123,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,281
+1124,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,281
+1125,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,282
+1126,NEW_REWARD,1,Congrats! You just earned a new reward.,0,282
+1127,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,282
+1128,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,282
+1129,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,283
+1130,NEW_REWARD,1,Congrats! You just earned a new reward.,0,283
+1131,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,283
+1132,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,283
+1133,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,284
+1134,NEW_REWARD,1,Congrats! You just earned a new reward.,0,284
+1135,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,284
+1136,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,284
+1137,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,285
+1138,NEW_REWARD,1,Congrats! You just earned a new reward.,0,285
+1139,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,285
+1140,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,285
+1141,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,286
+1142,NEW_REWARD,0,Congrats! You just earned a new reward.,0,286
+1143,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,286
+1144,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,286
+1145,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,287
+1146,NEW_REWARD,1,Congrats! You just earned a new reward.,0,287
+1147,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,287
+1148,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,287
+1149,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,288
+1150,NEW_REWARD,0,Congrats! You just earned a new reward.,0,288
+1151,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,288
+1152,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,288
+1153,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,289
+1154,NEW_REWARD,1,Congrats! You just earned a new reward.,0,289
+1155,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,289
+1156,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,289
+1157,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,290
+1158,NEW_REWARD,1,Congrats! You just earned a new reward.,0,290
+1159,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,290
+1160,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,290
+1161,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,291
+1162,NEW_REWARD,1,Congrats! You just earned a new reward.,0,291
+1163,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,291
+1164,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,291
+1165,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,292
+1166,NEW_REWARD,1,Congrats! You just earned a new reward.,0,292
+1167,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,292
+1168,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,292
+1169,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,293
+1170,NEW_REWARD,1,Congrats! You just earned a new reward.,0,293
+1171,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,293
+1172,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,293
+1173,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,294
+1174,NEW_REWARD,0,Congrats! You just earned a new reward.,0,294
+1175,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,294
+1176,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,294
+1177,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,295
+1178,NEW_REWARD,1,Congrats! You just earned a new reward.,0,295
+1179,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,295
+1180,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,295
+1181,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,296
+1182,NEW_REWARD,1,Congrats! You just earned a new reward.,0,296
+1183,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,296
+1184,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,296
+1185,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,297
+1186,NEW_REWARD,1,Congrats! You just earned a new reward.,0,297
+1187,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,297
+1188,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,297
+1189,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,298
+1190,NEW_REWARD,1,Congrats! You just earned a new reward.,0,298
+1191,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,298
+1192,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,298
+1193,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,299
+1194,NEW_REWARD,0,Congrats! You just earned a new reward.,0,299
+1195,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,299
+1196,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,299
+1197,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,300
+1198,NEW_REWARD,1,Congrats! You just earned a new reward.,0,300
+1199,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,300
+1200,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,300
+1201,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,301
+1202,NEW_REWARD,1,Congrats! You just earned a new reward.,0,301
+1203,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,301
+1204,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,301
+1205,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,302
+1206,NEW_REWARD,1,Congrats! You just earned a new reward.,0,302
+1207,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,302
+1208,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,302
+1209,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,303
+1210,NEW_REWARD,1,Congrats! You just earned a new reward.,0,303
+1211,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,303
+1212,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,303
+1213,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,304
+1214,NEW_REWARD,1,Congrats! You just earned a new reward.,0,304
+1215,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,304
+1216,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,304
+1217,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,305
+1218,NEW_REWARD,1,Congrats! You just earned a new reward.,0,305
+1219,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,305
+1220,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,305
+1221,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,306
+1222,NEW_REWARD,1,Congrats! You just earned a new reward.,0,306
+1223,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,306
+1224,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,306
+1225,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,307
+1226,NEW_REWARD,1,Congrats! You just earned a new reward.,0,307
+1227,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,307
+1228,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,307
+1229,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,308
+1230,NEW_REWARD,1,Congrats! You just earned a new reward.,0,308
+1231,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,308
+1232,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,308
+1233,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,309
+1234,NEW_REWARD,1,Congrats! You just earned a new reward.,0,309
+1235,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,309
+1236,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,309
+1237,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,310
+1238,NEW_REWARD,1,Congrats! You just earned a new reward.,0,310
+1239,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,310
+1240,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,310
+1241,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,311
+1242,NEW_REWARD,0,Congrats! You just earned a new reward.,0,311
+1243,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,311
+1244,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,311
+1245,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,312
+1246,NEW_REWARD,1,Congrats! You just earned a new reward.,0,312
+1247,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,312
+1248,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,312
+1249,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,313
+1250,NEW_REWARD,1,Congrats! You just earned a new reward.,0,313
+1251,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,313
+1252,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,313
+1253,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,314
+1254,NEW_REWARD,1,Congrats! You just earned a new reward.,0,314
+1255,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,314
+1256,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,314
+1257,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,315
+1258,NEW_REWARD,0,Congrats! You just earned a new reward.,0,315
+1259,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,315
+1260,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,315
+1261,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,316
+1262,NEW_REWARD,1,Congrats! You just earned a new reward.,0,316
+1263,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,316
+1264,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,316
+1265,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,317
+1266,NEW_REWARD,1,Congrats! You just earned a new reward.,0,317
+1267,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,317
+1268,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,317
+1269,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,318
+1270,NEW_REWARD,1,Congrats! You just earned a new reward.,0,318
+1271,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,318
+1272,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,318
+1273,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,319
+1274,NEW_REWARD,1,Congrats! You just earned a new reward.,0,319
+1275,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,319
+1276,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,319
+1277,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,320
+1278,NEW_REWARD,1,Congrats! You just earned a new reward.,0,320
+1279,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,320
+1280,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,320
+1281,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,321
+1282,NEW_REWARD,0,Congrats! You just earned a new reward.,0,321
+1283,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,321
+1284,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,321
+1285,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,322
+1286,NEW_REWARD,1,Congrats! You just earned a new reward.,0,322
+1287,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,322
+1288,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,322
+1289,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,323
+1290,NEW_REWARD,1,Congrats! You just earned a new reward.,0,323
+1291,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,323
+1292,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,323
+1293,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,324
+1294,NEW_REWARD,1,Congrats! You just earned a new reward.,0,324
+1295,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,324
+1296,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,324
+1297,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,325
+1298,NEW_REWARD,1,Congrats! You just earned a new reward.,0,325
+1299,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,325
+1300,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,325
+1301,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,326
+1302,NEW_REWARD,1,Congrats! You just earned a new reward.,0,326
+1303,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,326
+1304,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,326
+1305,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,327
+1306,NEW_REWARD,1,Congrats! You just earned a new reward.,0,327
+1307,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,327
+1308,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,327
+1309,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,328
+1310,NEW_REWARD,0,Congrats! You just earned a new reward.,0,328
+1311,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,328
+1312,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,328
+1313,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,329
+1314,NEW_REWARD,1,Congrats! You just earned a new reward.,0,329
+1315,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,329
+1316,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,329
+1317,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,330
+1318,NEW_REWARD,1,Congrats! You just earned a new reward.,0,330
+1319,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,330
+1320,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,330
+1321,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,331
+1322,NEW_REWARD,0,Congrats! You just earned a new reward.,0,331
+1323,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,331
+1324,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,331
+1325,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,332
+1326,NEW_REWARD,0,Congrats! You just earned a new reward.,0,332
+1327,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,332
+1328,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,332
+1329,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,333
+1330,NEW_REWARD,1,Congrats! You just earned a new reward.,0,333
+1331,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,333
+1332,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,333
+1333,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,334
+1334,NEW_REWARD,1,Congrats! You just earned a new reward.,0,334
+1335,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,334
+1336,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,334
+1337,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,335
+1338,NEW_REWARD,1,Congrats! You just earned a new reward.,0,335
+1339,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,335
+1340,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,335
+1341,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,336
+1342,NEW_REWARD,1,Congrats! You just earned a new reward.,0,336
+1343,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,336
+1344,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,336
+1345,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,337
+1346,NEW_REWARD,1,Congrats! You just earned a new reward.,0,337
+1347,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,337
+1348,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,337
+1349,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,338
+1350,NEW_REWARD,1,Congrats! You just earned a new reward.,0,338
+1351,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,338
+1352,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,338
+1353,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,339
+1354,NEW_REWARD,1,Congrats! You just earned a new reward.,0,339
+1355,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,339
+1356,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,339
+1357,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,340
+1358,NEW_REWARD,1,Congrats! You just earned a new reward.,0,340
+1359,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,340
+1360,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,340
+1361,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,341
+1362,NEW_REWARD,1,Congrats! You just earned a new reward.,0,341
+1363,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,341
+1364,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,341
+1365,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,342
+1366,NEW_REWARD,1,Congrats! You just earned a new reward.,0,342
+1367,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,342
+1368,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,342
+1369,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,343
+1370,NEW_REWARD,1,Congrats! You just earned a new reward.,0,343
+1371,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,343
+1372,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,343
+1373,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,344
+1374,NEW_REWARD,1,Congrats! You just earned a new reward.,0,344
+1375,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,344
+1376,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,344
+1377,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,345
+1378,NEW_REWARD,1,Congrats! You just earned a new reward.,0,345
+1379,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,345
+1380,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,345
+1381,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,346
+1382,NEW_REWARD,0,Congrats! You just earned a new reward.,0,346
+1383,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,346
+1384,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,346
+1385,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,347
+1386,NEW_REWARD,0,Congrats! You just earned a new reward.,0,347
+1387,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,347
+1388,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,347
+1389,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,348
+1390,NEW_REWARD,1,Congrats! You just earned a new reward.,0,348
+1391,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,348
+1392,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,348
+1393,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,349
+1394,NEW_REWARD,1,Congrats! You just earned a new reward.,0,349
+1395,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,349
+1396,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,349
+1397,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,350
+1398,NEW_REWARD,1,Congrats! You just earned a new reward.,0,350
+1399,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,350
+1400,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,350
+1401,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,351
+1402,NEW_REWARD,1,Congrats! You just earned a new reward.,0,351
+1403,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,351
+1404,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,351
+1405,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,352
+1406,NEW_REWARD,1,Congrats! You just earned a new reward.,0,352
+1407,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,352
+1408,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,352
+1409,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,353
+1410,NEW_REWARD,0,Congrats! You just earned a new reward.,0,353
+1411,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,353
+1412,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,353
+1413,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,354
+1414,NEW_REWARD,1,Congrats! You just earned a new reward.,0,354
+1415,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,354
+1416,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,354
+1417,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,355
+1418,NEW_REWARD,1,Congrats! You just earned a new reward.,0,355
+1419,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,355
+1420,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,355
+1421,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,356
+1422,NEW_REWARD,0,Congrats! You just earned a new reward.,0,356
+1423,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,356
+1424,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,356
+1425,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,357
+1426,NEW_REWARD,1,Congrats! You just earned a new reward.,0,357
+1427,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,357
+1428,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,357
+1429,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,358
+1430,NEW_REWARD,1,Congrats! You just earned a new reward.,0,358
+1431,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,358
+1432,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,358
+1433,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,359
+1434,NEW_REWARD,0,Congrats! You just earned a new reward.,0,359
+1435,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,359
+1436,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,359
+1437,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,360
+1438,NEW_REWARD,0,Congrats! You just earned a new reward.,0,360
+1439,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,360
+1440,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,360
+1441,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,361
+1442,NEW_REWARD,1,Congrats! You just earned a new reward.,0,361
+1443,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,361
+1444,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,361
+1445,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,362
+1446,NEW_REWARD,0,Congrats! You just earned a new reward.,0,362
+1447,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,362
+1448,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,362
+1449,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,363
+1450,NEW_REWARD,1,Congrats! You just earned a new reward.,0,363
+1451,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,363
+1452,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,363
+1453,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,364
+1454,NEW_REWARD,1,Congrats! You just earned a new reward.,0,364
+1455,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,364
+1456,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,364
+1457,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,365
+1458,NEW_REWARD,1,Congrats! You just earned a new reward.,0,365
+1459,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,365
+1460,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,365
+1461,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,366
+1462,NEW_REWARD,1,Congrats! You just earned a new reward.,0,366
+1463,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,366
+1464,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,366
+1465,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,367
+1466,NEW_REWARD,0,Congrats! You just earned a new reward.,0,367
+1467,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,367
+1468,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,367
+1469,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,368
+1470,NEW_REWARD,0,Congrats! You just earned a new reward.,0,368
+1471,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,368
+1472,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,368
+1473,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,369
+1474,NEW_REWARD,1,Congrats! You just earned a new reward.,0,369
+1475,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,369
+1476,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,369
+1477,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,370
+1478,NEW_REWARD,1,Congrats! You just earned a new reward.,0,370
+1479,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,370
+1480,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,370
+1481,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,371
+1482,NEW_REWARD,0,Congrats! You just earned a new reward.,0,371
+1483,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,371
+1484,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,371
+1485,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,372
+1486,NEW_REWARD,1,Congrats! You just earned a new reward.,0,372
+1487,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,372
+1488,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,372
+1489,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,373
+1490,NEW_REWARD,1,Congrats! You just earned a new reward.,0,373
+1491,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,373
+1492,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,373
+1493,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,374
+1494,NEW_REWARD,1,Congrats! You just earned a new reward.,0,374
+1495,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,374
+1496,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,374
+1497,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,375
+1498,NEW_REWARD,0,Congrats! You just earned a new reward.,0,375
+1499,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,375
+1500,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,375
+1501,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,376
+1502,NEW_REWARD,1,Congrats! You just earned a new reward.,0,376
+1503,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,376
+1504,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,376
+1505,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,377
+1506,NEW_REWARD,0,Congrats! You just earned a new reward.,0,377
+1507,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,377
+1508,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,377
+1509,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,378
+1510,NEW_REWARD,0,Congrats! You just earned a new reward.,0,378
+1511,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,378
+1512,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,378
+1513,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,379
+1514,NEW_REWARD,1,Congrats! You just earned a new reward.,0,379
+1515,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,379
+1516,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,379
+1517,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,380
+1518,NEW_REWARD,1,Congrats! You just earned a new reward.,0,380
+1519,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,380
+1520,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,380
+1521,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,381
+1522,NEW_REWARD,1,Congrats! You just earned a new reward.,0,381
+1523,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,381
+1524,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,381
+1525,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,382
+1526,NEW_REWARD,1,Congrats! You just earned a new reward.,0,382
+1527,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,382
+1528,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,382
+1529,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,383
+1530,NEW_REWARD,1,Congrats! You just earned a new reward.,0,383
+1531,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,383
+1532,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,383
+1533,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,384
+1534,NEW_REWARD,1,Congrats! You just earned a new reward.,0,384
+1535,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,384
+1536,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,384
+1537,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,385
+1538,NEW_REWARD,1,Congrats! You just earned a new reward.,0,385
+1539,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,385
+1540,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,385
+1541,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,386
+1542,NEW_REWARD,1,Congrats! You just earned a new reward.,0,386
+1543,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,386
+1544,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,386
+1545,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,387
+1546,NEW_REWARD,1,Congrats! You just earned a new reward.,0,387
+1547,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,387
+1548,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,387
+1549,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,388
+1550,NEW_REWARD,1,Congrats! You just earned a new reward.,0,388
+1551,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,388
+1552,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,388
+1553,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,389
+1554,NEW_REWARD,1,Congrats! You just earned a new reward.,0,389
+1555,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,389
+1556,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,389
+1557,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,390
+1558,NEW_REWARD,1,Congrats! You just earned a new reward.,0,390
+1559,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,390
+1560,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,390
+1561,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,391
+1562,NEW_REWARD,1,Congrats! You just earned a new reward.,0,391
+1563,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,391
+1564,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,391
+1565,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,392
+1566,NEW_REWARD,1,Congrats! You just earned a new reward.,0,392
+1567,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,392
+1568,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,392
+1569,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,393
+1570,NEW_REWARD,1,Congrats! You just earned a new reward.,0,393
+1571,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,393
+1572,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,393
+1573,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,394
+1574,NEW_REWARD,1,Congrats! You just earned a new reward.,0,394
+1575,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,394
+1576,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,394
+1577,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,395
+1578,NEW_REWARD,1,Congrats! You just earned a new reward.,0,395
+1579,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,395
+1580,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,395
+1581,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,396
+1582,NEW_REWARD,1,Congrats! You just earned a new reward.,0,396
+1583,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,396
+1584,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,396
+1585,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,397
+1586,NEW_REWARD,1,Congrats! You just earned a new reward.,0,397
+1587,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,397
+1588,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,397
+1589,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,398
+1590,NEW_REWARD,1,Congrats! You just earned a new reward.,0,398
+1591,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,398
+1592,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,398
+1593,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,399
+1594,NEW_REWARD,1,Congrats! You just earned a new reward.,0,399
+1595,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,399
+1596,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,399
+1597,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,400
+1598,NEW_REWARD,1,Congrats! You just earned a new reward.,0,400
+1599,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,400
+1600,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,400
+1601,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,401
+1602,NEW_REWARD,0,Congrats! You just earned a new reward.,0,401
+1603,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,401
+1604,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,401
+1605,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,402
+1606,NEW_REWARD,1,Congrats! You just earned a new reward.,0,402
+1607,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,402
+1608,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,402
+1609,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,403
+1610,NEW_REWARD,1,Congrats! You just earned a new reward.,0,403
+1611,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,403
+1612,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,403
+1613,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,404
+1614,NEW_REWARD,1,Congrats! You just earned a new reward.,0,404
+1615,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,404
+1616,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,404
+1617,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,405
+1618,NEW_REWARD,1,Congrats! You just earned a new reward.,0,405
+1619,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,405
+1620,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,405
+1621,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,406
+1622,NEW_REWARD,1,Congrats! You just earned a new reward.,0,406
+1623,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,406
+1624,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,406
+1625,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,407
+1626,NEW_REWARD,1,Congrats! You just earned a new reward.,0,407
+1627,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,407
+1628,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,407
+1629,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,408
+1630,NEW_REWARD,1,Congrats! You just earned a new reward.,0,408
+1631,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,408
+1632,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,408
+1633,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,409
+1634,NEW_REWARD,1,Congrats! You just earned a new reward.,0,409
+1635,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,409
+1636,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,409
+1637,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,410
+1638,NEW_REWARD,1,Congrats! You just earned a new reward.,0,410
+1639,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,410
+1640,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,410
+1641,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,411
+1642,NEW_REWARD,0,Congrats! You just earned a new reward.,0,411
+1643,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,411
+1644,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,411
+1645,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,412
+1646,NEW_REWARD,1,Congrats! You just earned a new reward.,0,412
+1647,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,412
+1648,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,412
+1649,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,413
+1650,NEW_REWARD,0,Congrats! You just earned a new reward.,0,413
+1651,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,413
+1652,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,413
+1653,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,414
+1654,NEW_REWARD,1,Congrats! You just earned a new reward.,0,414
+1655,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,414
+1656,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,414
+1657,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,415
+1658,NEW_REWARD,1,Congrats! You just earned a new reward.,0,415
+1659,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,415
+1660,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,415
+1661,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,416
+1662,NEW_REWARD,1,Congrats! You just earned a new reward.,0,416
+1663,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,416
+1664,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,416
+1665,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,417
+1666,NEW_REWARD,0,Congrats! You just earned a new reward.,0,417
+1667,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,417
+1668,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,417
+1669,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,418
+1670,NEW_REWARD,1,Congrats! You just earned a new reward.,0,418
+1671,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,418
+1672,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,418
+1673,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,419
+1674,NEW_REWARD,1,Congrats! You just earned a new reward.,0,419
+1675,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,419
+1676,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,419
+1677,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,420
+1678,NEW_REWARD,1,Congrats! You just earned a new reward.,0,420
+1679,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,420
+1680,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,420
+1681,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,421
+1682,NEW_REWARD,0,Congrats! You just earned a new reward.,0,421
+1683,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,421
+1684,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,421
+1685,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,422
+1686,NEW_REWARD,1,Congrats! You just earned a new reward.,0,422
+1687,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,422
+1688,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,422
+1689,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,423
+1690,NEW_REWARD,1,Congrats! You just earned a new reward.,0,423
+1691,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,423
+1692,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,423
+1693,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,424
+1694,NEW_REWARD,1,Congrats! You just earned a new reward.,0,424
+1695,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,424
+1696,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,424
+1697,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,425
+1698,NEW_REWARD,0,Congrats! You just earned a new reward.,0,425
+1699,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,425
+1700,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,425
+1701,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,426
+1702,NEW_REWARD,1,Congrats! You just earned a new reward.,0,426
+1703,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,426
+1704,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,426
+1705,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,427
+1706,NEW_REWARD,1,Congrats! You just earned a new reward.,0,427
+1707,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,427
+1708,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,427
+1709,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,428
+1710,NEW_REWARD,1,Congrats! You just earned a new reward.,0,428
+1711,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,428
+1712,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,428
+1713,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,429
+1714,NEW_REWARD,1,Congrats! You just earned a new reward.,0,429
+1715,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,429
+1716,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,429
+1717,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,430
+1718,NEW_REWARD,1,Congrats! You just earned a new reward.,0,430
+1719,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,430
+1720,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,430
+1721,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,431
+1722,NEW_REWARD,1,Congrats! You just earned a new reward.,0,431
+1723,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,431
+1724,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,431
+1725,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,432
+1726,NEW_REWARD,1,Congrats! You just earned a new reward.,0,432
+1727,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,432
+1728,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,432
+1729,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,433
+1730,NEW_REWARD,0,Congrats! You just earned a new reward.,0,433
+1731,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,433
+1732,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,433
+1733,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,434
+1734,NEW_REWARD,0,Congrats! You just earned a new reward.,0,434
+1735,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,434
+1736,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,434
+1737,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,435
+1738,NEW_REWARD,1,Congrats! You just earned a new reward.,0,435
+1739,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,435
+1740,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,435
+1741,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,436
+1742,NEW_REWARD,1,Congrats! You just earned a new reward.,0,436
+1743,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,436
+1744,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,436
+1745,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,437
+1746,NEW_REWARD,1,Congrats! You just earned a new reward.,0,437
+1747,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,437
+1748,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,437
+1749,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,438
+1750,NEW_REWARD,1,Congrats! You just earned a new reward.,0,438
+1751,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,438
+1752,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,438
+1753,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,439
+1754,NEW_REWARD,0,Congrats! You just earned a new reward.,0,439
+1755,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,439
+1756,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,439
+1757,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,440
+1758,NEW_REWARD,1,Congrats! You just earned a new reward.,0,440
+1759,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,440
+1760,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,440
+1761,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,441
+1762,NEW_REWARD,1,Congrats! You just earned a new reward.,0,441
+1763,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,441
+1764,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,441
+1765,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,442
+1766,NEW_REWARD,1,Congrats! You just earned a new reward.,0,442
+1767,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,442
+1768,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,442
+1769,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,443
+1770,NEW_REWARD,0,Congrats! You just earned a new reward.,0,443
+1771,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,443
+1772,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,443
+1773,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,444
+1774,NEW_REWARD,1,Congrats! You just earned a new reward.,0,444
+1775,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,444
+1776,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,444
+1777,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,445
+1778,NEW_REWARD,1,Congrats! You just earned a new reward.,0,445
+1779,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,445
+1780,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,445
+1781,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,446
+1782,NEW_REWARD,1,Congrats! You just earned a new reward.,0,446
+1783,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,446
+1784,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,446
+1785,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,447
+1786,NEW_REWARD,1,Congrats! You just earned a new reward.,0,447
+1787,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,447
+1788,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,447
+1789,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,448
+1790,NEW_REWARD,1,Congrats! You just earned a new reward.,0,448
+1791,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,448
+1792,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,448
+1793,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,449
+1794,NEW_REWARD,1,Congrats! You just earned a new reward.,0,449
+1795,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,449
+1796,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,449
+1797,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,450
+1798,NEW_REWARD,1,Congrats! You just earned a new reward.,0,450
+1799,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,450
+1800,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,450
+1801,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,451
+1802,NEW_REWARD,1,Congrats! You just earned a new reward.,0,451
+1803,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,451
+1804,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,451
+1805,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,452
+1806,NEW_REWARD,1,Congrats! You just earned a new reward.,0,452
+1807,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,452
+1808,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,452
+1809,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,453
+1810,NEW_REWARD,0,Congrats! You just earned a new reward.,0,453
+1811,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,453
+1812,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,453
+1813,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,454
+1814,NEW_REWARD,1,Congrats! You just earned a new reward.,0,454
+1815,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,454
+1816,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,454
+1817,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,455
+1818,NEW_REWARD,1,Congrats! You just earned a new reward.,0,455
+1819,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,455
+1820,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,455
+1821,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,456
+1822,NEW_REWARD,1,Congrats! You just earned a new reward.,0,456
+1823,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,456
+1824,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,456
+1825,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,457
+1826,NEW_REWARD,1,Congrats! You just earned a new reward.,0,457
+1827,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,457
+1828,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,457
+1829,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,458
+1830,NEW_REWARD,1,Congrats! You just earned a new reward.,0,458
+1831,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,458
+1832,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,458
+1833,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,459
+1834,NEW_REWARD,1,Congrats! You just earned a new reward.,0,459
+1835,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,459
+1836,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,459
+1837,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,460
+1838,NEW_REWARD,1,Congrats! You just earned a new reward.,0,460
+1839,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,460
+1840,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,460
+1841,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,461
+1842,NEW_REWARD,1,Congrats! You just earned a new reward.,0,461
+1843,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,461
+1844,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,461
+1845,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,462
+1846,NEW_REWARD,1,Congrats! You just earned a new reward.,0,462
+1847,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,462
+1848,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,462
+1849,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,463
+1850,NEW_REWARD,1,Congrats! You just earned a new reward.,0,463
+1851,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,463
+1852,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,463
+1853,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,464
+1854,NEW_REWARD,0,Congrats! You just earned a new reward.,0,464
+1855,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,464
+1856,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,464
+1857,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,465
+1858,NEW_REWARD,1,Congrats! You just earned a new reward.,0,465
+1859,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,465
+1860,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,465
+1861,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,466
+1862,NEW_REWARD,1,Congrats! You just earned a new reward.,0,466
+1863,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,466
+1864,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,466
+1865,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,467
+1866,NEW_REWARD,1,Congrats! You just earned a new reward.,0,467
+1867,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,467
+1868,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,467
+1869,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,468
+1870,NEW_REWARD,1,Congrats! You just earned a new reward.,0,468
+1871,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,468
+1872,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,468
+1873,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,469
+1874,NEW_REWARD,1,Congrats! You just earned a new reward.,0,469
+1875,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,469
+1876,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,469
+1877,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,470
+1878,NEW_REWARD,1,Congrats! You just earned a new reward.,0,470
+1879,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,470
+1880,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,470
+1881,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,471
+1882,NEW_REWARD,0,Congrats! You just earned a new reward.,0,471
+1883,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,471
+1884,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,471
+1885,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,472
+1886,NEW_REWARD,1,Congrats! You just earned a new reward.,0,472
+1887,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,472
+1888,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,472
+1889,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,473
+1890,NEW_REWARD,1,Congrats! You just earned a new reward.,0,473
+1891,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,473
+1892,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,473
+1893,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,474
+1894,NEW_REWARD,0,Congrats! You just earned a new reward.,0,474
+1895,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,474
+1896,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,474
+1897,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,475
+1898,NEW_REWARD,1,Congrats! You just earned a new reward.,0,475
+1899,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,475
+1900,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,475
+1901,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,476
+1902,NEW_REWARD,1,Congrats! You just earned a new reward.,0,476
+1903,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,476
+1904,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,476
+1905,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,477
+1906,NEW_REWARD,1,Congrats! You just earned a new reward.,0,477
+1907,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,477
+1908,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,477
+1909,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,478
+1910,NEW_REWARD,1,Congrats! You just earned a new reward.,0,478
+1911,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,478
+1912,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,478
+1913,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,479
+1914,NEW_REWARD,1,Congrats! You just earned a new reward.,0,479
+1915,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,479
+1916,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,479
+1917,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,480
+1918,NEW_REWARD,1,Congrats! You just earned a new reward.,0,480
+1919,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,480
+1920,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,480
+1921,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,481
+1922,NEW_REWARD,1,Congrats! You just earned a new reward.,0,481
+1923,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,481
+1924,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,481
+1925,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,482
+1926,NEW_REWARD,1,Congrats! You just earned a new reward.,0,482
+1927,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,482
+1928,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,482
+1929,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,483
+1930,NEW_REWARD,1,Congrats! You just earned a new reward.,0,483
+1931,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,483
+1932,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,483
+1933,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,484
+1934,NEW_REWARD,1,Congrats! You just earned a new reward.,0,484
+1935,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,484
+1936,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,484
+1937,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,485
+1938,NEW_REWARD,1,Congrats! You just earned a new reward.,0,485
+1939,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,485
+1940,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,485
+1941,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,486
+1942,NEW_REWARD,1,Congrats! You just earned a new reward.,0,486
+1943,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,486
+1944,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,486
+1945,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,487
+1946,NEW_REWARD,1,Congrats! You just earned a new reward.,0,487
+1947,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,487
+1948,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,487
+1949,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,488
+1950,NEW_REWARD,1,Congrats! You just earned a new reward.,0,488
+1951,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,488
+1952,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,488
+1953,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,489
+1954,NEW_REWARD,1,Congrats! You just earned a new reward.,0,489
+1955,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,489
+1956,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,489
+1957,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,490
+1958,NEW_REWARD,1,Congrats! You just earned a new reward.,0,490
+1959,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,490
+1960,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,490
+1961,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,491
+1962,NEW_REWARD,0,Congrats! You just earned a new reward.,0,491
+1963,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,491
+1964,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,491
+1965,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,492
+1966,NEW_REWARD,1,Congrats! You just earned a new reward.,0,492
+1967,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,492
+1968,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,492
+1969,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,493
+1970,NEW_REWARD,1,Congrats! You just earned a new reward.,0,493
+1971,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,493
+1972,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,493
+1973,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,494
+1974,NEW_REWARD,1,Congrats! You just earned a new reward.,0,494
+1975,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,494
+1976,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,494
+1977,BIRTHDAY,0,Happy birthday! Your special gift is waiting for you.,0,495
+1978,NEW_REWARD,1,Congrats! You just earned a new reward.,0,495
+1979,INACTIVITY_SHORT,0,We miss you! It has been a while. Come earn points.,60,495
+1980,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,495
+1981,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,496
+1982,NEW_REWARD,1,Congrats! You just earned a new reward.,0,496
+1983,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,496
+1984,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,496
+1985,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,497
+1986,NEW_REWARD,1,Congrats! You just earned a new reward.,0,497
+1987,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,497
+1988,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,497
+1989,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,498
+1990,NEW_REWARD,1,Congrats! You just earned a new reward.,0,498
+1991,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,498
+1992,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,498
+1993,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,499
+1994,NEW_REWARD,0,Congrats! You just earned a new reward.,0,499
+1995,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,499
+1996,INACTIVITY_LONG,1,Long time no see! Here is an incentive to come back.,90,499
+1997,BIRTHDAY,1,Happy birthday! Your special gift is waiting for you.,0,500
+1998,NEW_REWARD,0,Congrats! You just earned a new reward.,0,500
+1999,INACTIVITY_SHORT,1,We miss you! It has been a while. Come earn points.,60,500
+2000,INACTIVITY_LONG,0,Long time no see! Here is an incentive to come back.,90,500
